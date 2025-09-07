@@ -211,9 +211,9 @@
 
 ## 프로젝트 링크
 
-- **실제 서비스**: https://homekeeper-sepia.vercel.app/
-- **API 문서**: https://homekeeper-api-production.up.railway.app/docs/
-- **기술 블로그**: https://skyparci.vercel.app/
+- **실제 서비스**: [https://homekeeper-sepia.vercel.app/](https://homekeeper-sepia.vercel.app/)
+- **API 문서**: [https://homekeeper-api-production.up.railway.app/docs/](https://homekeeper-api-production.up.railway.app/docs/)
+- **기술 블로그**: [https://skyparci.vercel.app/](https://skyparci.vercel.app/)
 
 ---
 
