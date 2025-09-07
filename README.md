@@ -213,7 +213,7 @@
 
 - **실제 서비스**: https://homekeeper-sepia.vercel.app/
 - **API 문서**: https://homekeeper-api-production.up.railway.app/docs/
-- **기술 블로그**: https://blog-git-main-doingsomethings-projects.vercel.app/
+- **기술 블로그**: https://blog-zeta-sandy-84.vercel.app/
 
 ---
 
